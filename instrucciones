@@ -1,0 +1,60 @@
+Telecom X es una empresa de telecomunicaciones y has sido contratado como analista de datos para trabajar en un proyecto específico de Churn de clientes. La empresa está enfrentando un alto índice de evasión de clientes y aún no han identificado el problema de esta evasión. Para ello, te han proporcionado algunos datos en los que tendrás que buscar, tratar y realizar un análisis exploratorio para, una vez limpiados estos datos, poder proporcionárselos al equipo de ciencia de datos. De esta manera, podrán realizar un análisis predictivo y determinar de dónde proviene esta evasión de clientes.
+
+Una parte muy importante es esta sección de extracción de datos donde estamos proporcionando una API que te entregará un JSON desde donde tendrás que extraer estos datos en tu Google Colab. Una vez que hayas completado todos los pasos del desafío, tendrás que venir a esta sección, esta tarjeta de informe final y tendrás que escribir tus conclusiones, dar las razones por las cuales crees que está ocurriendo esta evasión de clientes.
+
+En este desafío, pondrás en práctica todas las habilidades que has adquirido hasta ahora a través de los cursos de ETL, por ejemplo, y de análisis exploratorio y podrás utilizar herramientas como Python, Pandas y Matplotlib. Estos te ayudarán a completar el desafío. Así que, ¡éxito en este desafío y manos a la obra!
+
+# 1. conociendo la biblioteca
+
+Utiliza los principales recursos de la biblioteca Pandas para desarrollar un proyecto
+
+Realiza análisis exploratorios
+
+Construye diferentes gráficas
+
+Selecciona datos específicos
+
+Aprende a tratar los datos nulos
+
+Remueve filas y columnas
+
+Crea diversos tipos de columnas
+
+#2. transformación y manipulación de datos
+
+Comprenda y aplique comandos de transformación de datos
+
+Diferencie los tipos de información que están presentes en los datos
+
+Manipule valores numéricos dentro de Dataframe de Pandas
+
+Distinga los métodos de manipulación de datos textuales
+
+Realice transformaciones con tipo de datos de fecha y hora
+
+Relacione las conversiones de datos con la construcción del proyecto
+
+#3. creando gráficos con bibliotecas de Python
+Aprende a crear gráficos con la biblioteca Matplotlib
+
+Entiende el funcionamiento de figuras y ejes de la biblioteca Matplotlib
+
+Aprende a utilizar la biblioteca Seaborn para la creación de gráficos
+
+Crea gráficos interactivos con la biblioteca Plotly
+
+Personaliza tus visualizaciones con diversos colores, estilos, anotaciones, etc
+
+Aprende buenas prácticas para la elaboración de gráficos
+
+#2. uso de la IA en la construcción de visualización de datos
+
+Aprende a utilizar ChatGPT como asistente personal en el análisis y visualización de datos
+
+Optimiza el tiempo en la construcción de visualizaciones de datos con ChatGPT
+
+Aprende cómo construir una visualización de datos personalizada para la presentación a tu público
+
+Conoce las limitaciones y posibilidades del uso de IA en la creación de visuales de los más diversos tipos
+
+Construye un informe con los datos a través de los recursos disponibles de IA como Gamma y ChatGPT
